@@ -1,0 +1,10 @@
+.details {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.details-element {
+    border: 1px solid white;
+    padding: 10px 0 10px 10px;
+    font-size: 0.8rem;
+}

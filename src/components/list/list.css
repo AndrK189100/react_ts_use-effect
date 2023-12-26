@@ -1,0 +1,25 @@
+.list {
+    list-style: none;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 1px solid white;    
+    border-radius: 5px;
+    width: 200px;
+}
+
+.list-elem {
+    border: 1px solid white;
+    padding: 11px 5px 10px 5px;
+    text-align: left;
+}
+
+.list-elem:hover {
+    color: greenyellow;
+}
+
+.list-elem:active {
+    color: greenyellow;
+    font-size: 1.1rem;
+}
